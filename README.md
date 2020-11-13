@@ -17,5 +17,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 <br />
 ![alt text](https://github.com/takatin31/SplashScreen/blob/main/images/final.jpg?raw=true)
 <br />
+![alt Text](https://github.com/takatin31/SplashScreen/blob/main/images/app.gif)
+<br /><br />
 ## Note
 No video or gif has been used in this App (everything is coded)
