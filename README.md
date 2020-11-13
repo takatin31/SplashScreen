@@ -6,6 +6,7 @@ Processing is a flexible software sketchbook and a language for learning how to 
 1- Download processing https://processing.org/download/
 <br/>
 2- Add the android mode
+<br/>
 ![alt text](https://github.com/takatin31/SplashScreen/blob/main/images/mode.png?raw=true)
 <br/>
 <br/>
